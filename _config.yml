@@ -1,0 +1,135 @@
+# ¡Bienvenido a Jekyll!
+#
+# Este archivo de configuración está destinado a configuraciones que afectan a todo tu blog, valores
+# que se espera que configures una vez y rara vez edites después de eso. Si te encuentras
+# editando este archivo con mucha frecuencia, considera usar los archivos de datos de Jekyll
+# para los datos que necesita actualizar con frecuencia.
+#
+# Por razones técnicas, este archivo * NO * se recarga automáticamente cuando usas
+# 'bundle exec jekyll serve'. Si cambias este archivo, reinicia el proceso del servidor.
+
+# Configuración del sitio
+# Esto se utiliza para personalizar tu nuevo sitio. Si miras en los archivos HTML,
+# Verás que se accede a ellos a través de {{site.title}}, {{site.email}}, etc.
+# Puedes crear cualquier variable personalizada que desees y será accesible
+# en las plantillas a través de {{site.myvariable}}.
+
+title: Tower Builder
+
+# Imagen del logo
+image: tb-logo.png
+
+#Descripción de tu sitio
+description: >-
+  TowerBuilder es un sistema para generar sitios web con visualizaciones de datos que combinan datos de contrataciones abiertas y beneficiarios reales, todo sin necesidad de conocimientos de programación.
+
+# Activa el menu de arriba: true o false
+top_menu: true
+
+# Personaliza el título del botón del menú Más información
+menu_button_title: Más información
+
+# URL del archivo de contratos o del endpoint de tu API
+contracts_url: "/assets/data/contracts.csv"
+#contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
+
+# URL del archivo de beneficial ownership o del endpoint de tu API
+bods_url: ""
+
+graph:
+  # EL nombre de tu gráfico
+  - title: "Nombre del gráfico"
+  # los tamaños minimos y maximos de los nodos (en pixeles, aproximado)
+  - sizes:
+    - min: 20
+    - max: 300
+  # colores de nodos y connectores
+  - colours:
+      - nodes:
+          - default: '#f7d301'
+          - contract: '#f7d301'
+          - contractTypes: '#7cd432'
+          - contractByType: '#5fd2ef'
+          - organization: '#e08C74'
+          - shareholderPerson: '#967528'
+      - links:
+          - default: '#706F74'
+          - contractsTypes: '#706F74'
+          - toCenter: '#706F74'
+          - toContractType: '#706F74'
+          - toOrganization: '#706F74'
+  - descriptionLink: "Ir al perfil"
+
+  #Formato de contracts_url: releases_json, records_json_api, csv
+  # releases_json: {releases: [] }
+  # records_json_api: {data: { records: [ {compiledRelease: {} }] } }
+  # csv: un archivo csv
+  - contracts_format: "csv"
+
+# Personaliza los títulos y placeholders de los inputs en el buscador de contratos
+contracts_title: Proyectos por empresas
+search_title: Búsqueda
+search_placeholder: Introduce palabra clave a buscar
+amount_title: Hectáreas totales
+amount_from_placeholder: Desde
+amount_to_placeholder: hasta
+type_contract_title: Tipo de contratación
+type_contract_title_tooltip: La ley obliga a la Unidad Compradora a definir el tipo de contratación, ya que varían las normas en cada caso.
+type_contract_all_option: Todo
+type_procedure_title: Tipo de proyecto
+type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
+type_procedure_all_option: Todo
+date_range_title: Rango de fechas
+date_range_from_placeholder: Desde
+date_range_to_placeholder: hasta
+date_range_title_tooltip: Encuentra los contratos activos entre dos fechas.
+filter_footnote_title: Los filtros aplican sobre los proyectos que tienen las empresas.
+# Personaliza los títulos de la tabla
+column_1: Empresas
+column_2: Cant. de proyectos
+column_3: Hectáreas
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-analytics
+
+# Excluir del procesamiento.
+# Los siguientes elementos no se procesarán de forma predeterminada.
+# Crea una lista personalizada para anular la configuración predeterminada.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - docs/
+
+# Colecciones
+collections_dir: collections
+collections:
+  first-slider:
+    output: true
+  visualization-slider:
+    output: true
+  home:
+    output: true
+  footer:
+    output: true
+
+# Cambia a false para ocultar extractos en la página de publicaciones.
+show_excerpts: true
+future: true
+
+# Configura el lenguaje de las fechas en las páginas de publicaciones (es/en).
+date-language: "es"
+
+# Configura el formato de las fechas en las páginas de publicaciones.
+# Otros formatos: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"
+date-format: "%B %-d, %Y"
+
+# Configuración de analytics (para más opciones, ve la documentación)
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking

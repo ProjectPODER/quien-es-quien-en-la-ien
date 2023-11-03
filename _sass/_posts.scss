@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+    .header-card {
+		display: block !important;
+	}
+}
+
+.image-post {
+	text-align: center;
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+}
