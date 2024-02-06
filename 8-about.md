@@ -14,7 +14,7 @@ El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar si
 - Coordinación de Investigación: Óscar Pineda
 - Desarrollo: Marisol Carrillo
 - Diseño editorial e ilustración: Adrián Sánchez
-- Redes sociales: Mariela Álvarez
+- Comunicación: Mariela Álvarez
 - Coordinación de Comunicación: Paulina Souza
 - Dirección de Investigación: Julieta Lamberti
 - Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
