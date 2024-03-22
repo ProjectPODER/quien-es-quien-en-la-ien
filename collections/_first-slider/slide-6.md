@@ -1,6 +1,6 @@
 ---
 title: QUIÉN ES QUIÉN EN LA CFE
-image: deuda-CFE.png
+image: cfe10.png
 ---
 
 # ¿QUIÉN ES QUIÉN EN LA CFE?
