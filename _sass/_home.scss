@@ -1,9 +1,9 @@
-.home-content {
+div[data-anchor="slide-1"] {
     position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 35rem;
-    padding: 10rem 0;
+    // width: 100%;
+    // height: auto;
+    // min-height: 35rem;
+    // padding: 10rem 0;
     background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
     background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
     background-position: top;
@@ -12,23 +12,48 @@
     background-size: cover;
 
     h1 {
-        font-size: 70px;
-        line-height: 75px;
-        margin-bottom: 2rem;
+        font-size: 90px;
+        line-height: 95px;
+        margin-bottom: 1rem;
         font-weight: bolder;
+        text-shadow: #21324c 6px 5px 1px;
+    }
+    h2 {
+        font-size: 44px;
+        line-height: 49px;
+        margin-bottom: 2rem;
+        text-shadow: #21324c 3px 3px 1px;
     }
 
-    h1,
+    h1, h2,
     p {
-        color: $white;
+        color: $white !important;
     }
     p {
         font-size: 1.7rem;
     }
     a {
         @extend .btn;
-        @extend .btn-primary;
+        @extend .btn-secondary;
         margin: 2rem 0.5rem 1rem 0.5rem;
+    }
+    .main-text {
+        font-weight: bold;
+        display: inline-block;
+        background-color: rgba(0, 0, 0, 0.2);
+        color: white;
+        padding: 20px;
+        border-radius: 1em;
+        text-shadow: black 0 0 5px;
+        box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
+    }
+
+    .down-button {
+        margin-top: 50px;
+    }
+    .down-arrow-icon {
+        width: 50px;
+        opacity: 70%;
     }
 }
 

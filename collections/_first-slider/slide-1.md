@@ -1,8 +1,18 @@
 ---
-title: Alternativas de defensa
-image: graphic-example1.png
+title: Inicio
+image:
 ---
 
-# Colectivo Regional en Defensa de los Bosques y el Territorio (SNP)
+# VOLTIOS Y NEGOCIOS
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+## Industria eléctrica y captura del estado en México
+
+{:.main-text}
+A diez años de la reforma energética de 2013, la industria eléctrica nacional se observa como un entramado jurídico institucional abigarrado que está lejos de alcanzar su soberanía y, aún más lejos de una transición energética justa. El modelo actual depende de la importación de gas de los Estados Unidos y su destino final es el uso industrial (62%) y residencial (25%).
+
+[Link]()
+[Link]()
+
+<div class="down-button">
+    <img class="down-arrow-icon" src="{{ site.baseurl }}/assets/img/down-arrow.svg" alt="ícono de flecha hacia abajo">
+</div>
