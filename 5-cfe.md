@@ -10,5 +10,6 @@ La estructura corporativa de la CFE se conforma de diez subsidiarias y cinco fil
 
 Si bien la CFE es una empresa propiedad del Estado, las reformas de 2013 le permitieron comenzar a colocar certificados fiduciarios en la Bolsa Mexicana de Valores a partir de febrero de 2018. Su deuda para 2022 asciende a los MX $450,501 millones de pesos de los cuales MXN $269,003 millones corresponden al rubro de Deuda Documentada; otros MX $117,479 millones son del esquema PIDIREGAS y; el resto de la deuda (MX $64,019 millones) corresponde a financiamiento de inversión fiduciaria. Con respecto a la deuda documentada la CFE declara los siguientes instrumentos de deuda para este periodo:
 
-{:.image-post}
-![CIBIOGEM. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/deuda-CFE.png)
+
+![imagen](https://github.com/ProjectPODER/quien-es-quien-en-la-ien/assets/158624998/59ea1685-fdbb-4db4-8973-1b4c8b3f3846)
+
