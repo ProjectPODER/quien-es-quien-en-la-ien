@@ -13,7 +13,7 @@ En 2021 había 152 participantes activos en el MEM quienes interactúan mediante
 </div>
 <br>
 
-Texto
+Para 2022 los principales actores privados en el MEM se identifican de acuerdo a tres modalidades: CEL’s, Generación y Potencia. El siguiente gráfico ilustra esta participación:
 
 {:.image-post}
 ![CIBIOGEM. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/MEM2_TB.png)
