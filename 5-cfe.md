@@ -4,7 +4,7 @@ title: ¿Quién es quién en la CFE?
 permalink: /quien-es-quien-en-la-cfe/
 ---
 
-# ¿Qué es y, qué hace la CFE?
+# ¿Qué es? y, ¿qué hace la CFE?
 
 La estructura corporativa de la CFE se conforma de diez subsidiarias y cinco filiales. La gobernanza de esta empresa la lleva el Lic. Manuel Bartlett Díaz junto con un Consejo de Administración y otros cinco directores ejecutivos. Del total de directivos y consejeros que componen esta dirección sólo el 30% son cargos ocupados por mujeres. El total de nómina que ocupan estos funcionarios fue de casi 80 millones de pesos en 2022.
 
