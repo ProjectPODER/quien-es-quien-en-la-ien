@@ -1,6 +1,6 @@
 ---
 title: DESCARGA EL INFORME
-iframe: "/assets/voltiosynegocios.pdf"
+iframe: "voltios-y-negocios/assets/voltiosynegocios.pdf"
 ---
 
 # DESCARGA EL INFORME: Voltios y negocios. Industria eléctrica y captura del estado en México.
