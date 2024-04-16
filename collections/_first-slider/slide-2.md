@@ -1,6 +1,6 @@
 ---
 title: REFORMA Y CONTRAREFORMA ENERGÉTICA
-image: reformaycontra.png
+image: Reformaycontrareforma.png
 ---
 
 # REFORMA Y CONTRAREFORMA ENERGÉTICA

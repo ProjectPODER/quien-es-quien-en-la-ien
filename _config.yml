@@ -24,7 +24,7 @@ description: >-
   TowerBuilder es un sistema para generar sitios web con visualizaciones de datos que combinan datos de contrataciones abiertas y beneficiarios reales, todo sin necesidad de conocimientos de programación.
 
 # Activa el menu de arriba: true o false
-top_menu: true
+top_menu: false
 
 # Personaliza el título del botón del menú Más información
 menu_button_title: Más información
