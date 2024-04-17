@@ -1,19 +1,9 @@
 ---
-title: Visualización y micrositio
-iframe:
+title: DESCARGA EL INFORME
+iframe: "/voltios-y-negocios/assets/voltiosynegocios.pdf"
 ---
 
-# Visualización y micrositio
+# DESCARGA EL INFORME: Voltios y negocios. Industria eléctrica y captura del estado en México.
 
-El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir
-el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl y de las compras públicas del IMSS.
-
-## Créditos
-- Investigación: Enrique Mejia
-- Coordinación de Investigación: Óscar Pineda
-- Desarrollo: Marisol Carrillo
-- Diseño editorial e ilustración: Adrián Sánchez
-- Comunicación: Mariela Álvarez
-- Coordinación de Comunicación: Paulina Souza
-- Dirección de Investigación: Julieta Lamberti
-- Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/03/voltiosynegocios.pdf" target="_blank">Descargar informe</a>
+<br>

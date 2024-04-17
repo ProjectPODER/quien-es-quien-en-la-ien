@@ -105,8 +105,9 @@
 //     background-image: url(https://raw.githubusercontent.com/alvarotrigo/fullPage.js/master/examples/imgs/bg1.jpg);
 // }
 
-div[data-anchor="slide-9a"],
-div[data-anchor="slide-8"] {
+div[data-anchor="slide-9"],
+div[data-anchor="slide-8"],
+div[data-anchor="slide-9b"] {
     .text-center {
         text-align: left !important;
     }
