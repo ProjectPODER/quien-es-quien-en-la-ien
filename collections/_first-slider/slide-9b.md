@@ -17,4 +17,4 @@ el dinero en grandes procesos de compra, se ha usado anteriormente para el monit
 - Coordinación de Comunicación: Paulina Souza
 - Dirección de Investigación: Julieta Lamberti
 - Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
-- Imagen de portada:
+- Imagen de portada: visualhunt.com
