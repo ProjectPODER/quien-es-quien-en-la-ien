@@ -18,4 +18,5 @@ El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar si
 - Coordinación de Comunicación: Paulina Souza
 - Dirección de Investigación: Julieta Lamberti
 - Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+- Imagen de portada: <a href="https://visualhunt.co/a7/0dea0d35">a_whisper_of_unremitting_demand</a> on <a href="https://visualhunt.com/re10/b55facb3">Visualhunt.com</a>
 
