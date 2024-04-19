@@ -1,6 +1,6 @@
 ---
 title: QUIÉN SE COLGÓ DE LA LUZ EN 2022
-image: ![troy_ok](https://github.com/ProjectPODER/voltios-y-negocios/assets/158624998/d0498fcd-37bd-410f-b253-e2073f731dec)
+image: [troy_ok](https://github.com/ProjectPODER/voltios-y-negocios/assets/158624998/d0498fcd-37bd-410f-b253-e2073f731dec)
 
 ---
 
