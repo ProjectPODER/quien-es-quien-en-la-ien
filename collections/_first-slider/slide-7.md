@@ -1,6 +1,6 @@
 ---
 title: QUIÉN SE COLGÓ DE LA LUZ EN 2022
-image: 
+image: troy_ok.png
 
 ---
 
