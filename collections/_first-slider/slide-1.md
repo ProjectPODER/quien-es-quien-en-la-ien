@@ -1,6 +1,7 @@
 ---
 title: Inicio
 image:
+page-order: 1
 ---
 
 # VOLTIOS Y NEGOCIOS
