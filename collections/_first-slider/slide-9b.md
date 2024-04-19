@@ -6,6 +6,10 @@ iframe:
 # Metodología
 
 Texto
-
-<a class="btn btn-secondary" href="" target="_blank">Descargar base de datos</a>
+<div class="text-center">
+  <a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/04/CFEdatos.xlsx" download>Descargar base de datos de CFE</a>
+</div>
 <br>
+<div class="text-center">
+  <a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/04/tablas_controladoras-y-top-contratos.xlsx" download>Descargar tablas controladoras y contratos</a>
+</div>
