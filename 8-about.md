@@ -6,7 +6,7 @@ permalink: /sobre-el-proyecto/
 
 # Visualización y micrositio
 
-El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl y de las compras públicas del IMSS.
+El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.io/es/latest/index.html), creado por PODER, para generar sitios web con visualizaciones de datos. Está pensado para seguir el dinero y conocer las estructuras corporativas, se ha usado anteriormente para el monitoreo de grandes obras públicas como en [El Negocio del Tren Maya](https://trenmaya.poderlatam.org/#/), privadas como en [La Nueva Amenaza de Grupo México](https://poderlatam.org/project/la-nueva-amenaza-de-grupo-mexico/) y en la compra de medicamentos y vacunas como en [Vivir con VIH](https://vivirconvih.org/) y [El Negocio de las Vacuna$](https://poderlatam.org/el-negocio-de-las-vacunas/#/vacunas-2023/).
 
 # Créditos
 
