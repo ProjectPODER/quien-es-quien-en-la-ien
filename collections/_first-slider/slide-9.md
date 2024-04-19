@@ -3,6 +3,7 @@ title: QUIÉN SE COLGÓ DE LA LUZ EN 2022
 image:
 ---
 
+
 6. Que **el principal controlador de toda la industria es la CFE**, la cual puede celebrar contratos con empresas privadas para la compra-venta de energía. En la legislación mexicana, la participación de privados se encuentra en el Mercado Eléctrico Mayorista (MEM). En el MEM destaca la participación de capitales de origen europeo, chino y norteamericano. La única firma con una parte de capital mexicano es Acciona Energía.
 
 7. Que existe una **gran disparidad en la relación usuarios y ventas finales de la CFE por estado** ya que estados como Nuevo León, Baja California, Coahuila, Chihuahua, Jalisco, Guanajuato, Sonora y Veracruz son entidades que reportan grandes ventas para un porcentaje bajo de usuarios. Esto quiere decir que, existe un alto consumo de electricidad para estados con presencia industrial y otros donde las tarifas son muy altas. Esto no tiene ninguna correlación con los estados que más energía producen.
